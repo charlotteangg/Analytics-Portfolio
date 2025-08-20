@@ -1,2 +1,3 @@
-# Project_1
-My first data analytics project, name TBC
+# Portfolio
+
+## Project 1: Google Analytics Capstone - Cyclistic Case Study
